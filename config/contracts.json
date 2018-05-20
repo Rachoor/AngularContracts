@@ -16,6 +16,12 @@
         "args": [
           100
         ]
+      },
+      "RoundCollect": {
+        "fromIndex": 0,
+        "args": [
+          100
+        ]
       }
     }
   }

@@ -16,5 +16,21 @@
     "host": "localhost",
     "port": 5001,
     "getUrl": "http://localhost:8080/ipfs/"
+  },
+  "ropsten": {
+    "enabled": true,
+    "provider": "ipfs",
+    "host": "ropsten.infura.io",
+    "port": 80,
+    "protocol": "https",
+    "getUrl": "https://ropsten.infura.io/DYKgybZY2tGh56GeFeoU"
+  },
+  "production": {
+    "enabled": true,
+    "provider": "ipfs",
+    "host": "mainnet.infura.io",
+    "port": 80,
+    "protocol": "https",
+    "getUrl": "https://mainnet.infura.io/DYKgybZY2tGh56GeFeoU"
   }
 }
