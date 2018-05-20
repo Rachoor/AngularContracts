@@ -1,0 +1,20 @@
+{
+  "0x58906ffd18faaedadc3b2f73baa21b1c9e768dc623917e3e5233b04bebd56983": {
+    "contracts": {
+      "0xa72e15b4fc637528e678fdcab66f178b753f609a6d2a66564f1676fde4d51ed3": {
+        "name": "SimpleStorage",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      }
+    },
+    "name": "development"
+  },
+  "0xadb6a7cbfad0bbff4d30c3b03de724fb615ecbb0a63a43b8fe1f45958d05fddd": {
+    "contracts": {
+      "0xa72e15b4fc637528e678fdcab66f178b753f609a6d2a66564f1676fde4d51ed3": {
+        "name": "SimpleStorage",
+        "address": "0x04D45b51fe4f00b4478F8b0719Fa779f14c8A194"
+      }
+    },
+    "name": "development"
+  }
+}

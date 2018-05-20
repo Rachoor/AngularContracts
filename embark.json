@@ -1,0 +1,17 @@
+{
+  "contracts": ["contracts/**"],
+  "app": {
+    "js/dapp.js": ["src/app/dapp.js"],
+    "index.html": "src/app/index.html",
+    "images/": ["src/app/img/**"]
+  },
+  "buildDir": "dist/",
+  "config": "config/",
+  "versions": {
+    "web3": "1.0.0-beta.34",
+    "solc": "0.4.24",
+    "ipfs-api": "21.0.0"
+  },
+  "plugins": {
+  }
+}
